@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "Hi there!"
+    },
+    {
+      "question": "hello",
+      "answer": "hi"
+    },
+    {
+      "question": "plz help",
+      "answer": "Hello I am WeCare Chatbot all stop solutions to all your mental health issues,tell me freely what are your issues"
+    },
+    {
+      "question": "i am anxious",
+      "answer": "Please take a deep breadth and be relaxed .Don't take any unnecessary stress"
+    },
+    {
+      "question": "anxiety i have",
+      "answer": "Please take a deep breadth and be relaxed . Don't take any unnecessary stress"
+    }
+  ]
+}
